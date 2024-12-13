@@ -15,6 +15,7 @@ st.sidebar.markdown("""
 - **Total Purse of all Teams:** ₹1200 Crores  
 - **Purse Spent for Retained Players:** ₹543.25 Crores  
 - **Auction Pool:** ₹656.75 Crores
+- **Purse Spent at Auction:** ₹638.85 Crores
 
 ### Highest Bid Players
 1. **Rishabh Pant (LSG)** - ₹27 Crores  
