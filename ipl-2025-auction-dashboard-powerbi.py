@@ -51,7 +51,7 @@ st.image(
 # Add a section for the embedded Power BI iframe
 st.subheader("Interactive IPL 2025 Auction Insights")
 components.html("""
-<iframe title="IPL 2025" width="100%" height="500" src="https://app.powerbi.com/view?r=eyJrIjoiZjVlMzdkNTItMDQ3YS00MDk0LTk4N2ItZGQxZjdiNGQ5NTViIiwidCI6IjRhZDIzNDAxLTliODgtNGQ0ZC04ZmY3LWE5Y2M0OTZkODhiMyJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="IPL 2025" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzU1NTkzN2MtYTgyMy00Y2FhLTg2MGYtMTE4MWIzMTVmMDEwIiwidCI6IjRhZDIzNDAxLTliODgtNGQ0ZC04ZmY3LWE5Y2M0OTZkODhiMyJ9" frameborder="0" allowFullScreen="true"></iframe>
 """, height=500)
 
 # Section about IPL Auction 2025
